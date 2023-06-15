@@ -1,7 +1,7 @@
 # Stanford CS106A - Code in Place 2023
 
 <p align="center">
-    <img src="media/cip_2023_homepage.jpg" width="500">
+    <img src="cip_2023_homepage.jpg" width="500">
 </p>
 
 ## About Code in Place
