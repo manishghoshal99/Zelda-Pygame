@@ -14,10 +14,6 @@ Sections - Consider this as appendix of this course
 Notes - A PDF with all the notes from all lectures, keep this for revision
 You have successfully completed Stanford University's course CS-106A
 
-Karel Project
-Used Karel to write my etire name - AYUSH, letter by letter in its world.
-You can find the ExtensionKarel code for in the Assignment - 1 folder of this repository.
-
 FOR MY FINAL PROJECT, I MADE :
 
 # Zelda Pygame ⚔
