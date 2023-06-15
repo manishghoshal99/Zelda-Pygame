@@ -1,3 +1,25 @@
+Stanford University offered CS-106A course in the form of "Code in Place" during the COVID-19 pandemic. This was a virtual course in which Prof. Mehran Sahami and Prof. Chris Piech taught us for 5 weeks in which we completed 3 Assignments and a Final Project.
+
+Description
+This is a well organised collection of all the notes and assignments for CS-106A. Anyone can use it for leaning Python or revising their basic concepts.
+
+Instructions to use this repository in the correct manner:
+Handouts - Instructions to intall PyCharm
+Karel Reader - Makes you familiar with computer programming by introducting you to the friendly robot "Karel"
+Python Reader - Introduces you to Python language
+Lectures - Go through all the leactures and try to solve the programming questions in them
+Assignments - These are selected question to push you to think and work out the skills you just learned
+Final Project - A snake game made using pygame package which can be launced from the terminal
+Sections - Consider this as appendix of this course
+Notes - A PDF with all the notes from all lectures, keep this for revision
+You have successfully completed Stanford University's course CS-106A
+
+Karel Project
+Used Karel to write my etire name - AYUSH, letter by letter in its world.
+You can find the ExtensionKarel code for in the Assignment - 1 folder of this repository.
+
+FOR MY FINAL PROJECT, I MADE :
+
 # Zelda Pygame ⚔
 A Zelda-like game I made with Python as the Final Project Submission for Stanford CIP 2023. Other than the amazing course material, I followed this tutorial as well https://youtu.be/QU1pPzEGrqw. 
 
