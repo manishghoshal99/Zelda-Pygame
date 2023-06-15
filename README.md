@@ -1,5 +1,5 @@
 # Zelda Pygame ⚔
-A Zelda-like game I made with Python following this tutorial https://youtu.be/QU1pPzEGrqw. This is one of the best and longest Python projects I ever made, it's a really great way to learn OOP (Object Oriented Programming) in Python!
+A Zelda-like game I made with Python as the Final Project Submission for Stanford CIP 2023. Other than the amazing course material, I followed this tutorial as well https://youtu.be/QU1pPzEGrqw. 
 
 ![image](INPUT LINK)
 
